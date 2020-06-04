@@ -1,3 +1,7 @@
+
+# Moved to [ringcentral/ringcentral-unified-ts](https://github.com/ringcentral/ringcentral-unified-ts)
+
+
 # RingCentral Unified SDK for TypeScript
 
 [![Build Status](https://travis-ci.org/ringcentral/ringcentral-unified-ts.svg?branch=master)](https://travis-ci.org/ringcentral/ringcentral-unified-ts)
