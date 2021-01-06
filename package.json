@@ -15,7 +15,7 @@
     "prepublishOnly": "rm -rf build && tsc && rm build/package.json && mv build/src/* build/ && rmdir build/src && gts fix && yarn test"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "delay": "^4.3.0",
     "form-data": "^3.0.0",
     "http-status-codes": "^1.4.0",
