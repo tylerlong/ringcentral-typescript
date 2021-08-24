@@ -1,5 +1,5 @@
 
-# Moved to [ringcentral/ringcentral-unified-ts](https://github.com/ringcentral/ringcentral-unified-ts)
+# Moved to [ringcentral/ringcentral-extensible](https://github.com/ringcentral/ringcentral-extensible)
 
 
 # RingCentral Unified SDK for TypeScript
